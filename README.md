@@ -1,4 +1,4 @@
-To Check its appearence
+To check the app, link is below.
 
 # https://ektoravgi.github.io/
 
